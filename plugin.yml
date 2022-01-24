@@ -1,0 +1,4 @@
+name: DatapackVariableFramework
+main: dev.jorel.dvf.Main
+version: 1.0
+depend: [CommandAPI]
