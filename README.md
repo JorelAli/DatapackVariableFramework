@@ -40,3 +40,7 @@ This uses the CommandAPI to create variables and uses the [CommandAPI's Brigadie
 var set mut counter = 20
 give @p diamond var:counter
 ```
+
+A quick demonstration:
+
+![demo](./dvf_demo.gif)
